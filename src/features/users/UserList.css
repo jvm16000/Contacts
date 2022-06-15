@@ -1,0 +1,26 @@
+.btn {
+    background-color: #002147 !important;
+    width: 17rem;
+    border-radius: 10px !important;
+    height: 3rem;
+}
+
+.acc {
+    min-width: 100vh !important;
+    background-color: #F5F5F5 !important;
+    border: none !important;
+}
+
+.error {
+    font-weight: bold;
+    color: red;
+    font-size: large;
+    border-style: groove;
+    border-color: red;
+    padding: 8px;
+    background-color: #ffe6e6;
+    border-radius: 3px;
+    width: 25rem;
+    display: flex;
+    justify-content: center;
+}
